@@ -1,2 +1,6 @@
 this is file1
 this is 2nd edit in FIle1
+<<<<<<< HEAD
+=======
+this is the edit 
+>>>>>>> parent of 3978b81... newfile was edited to check conflict
